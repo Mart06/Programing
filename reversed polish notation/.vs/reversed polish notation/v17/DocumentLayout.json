@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visualStudioProjects\\reversed polish notation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E925E2F-A198-44B5-A1C8-F91FF1B3B070}|reversed polish notation\\reversed polish notation.csproj|d:\\visualstudioprojects\\reversed polish notation\\reversed polish notation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E925E2F-A198-44B5-A1C8-F91FF1B3B070}|reversed polish notation\\reversed polish notation.csproj|solutionrelative:reversed polish notation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visualStudioProjects\\reversed polish notation\\reversed polish notation\\Program.cs",
+              "RelativeDocumentMoniker": "reversed polish notation\\Program.cs",
+              "ToolTip": "D:\\visualStudioProjects\\reversed polish notation\\reversed polish notation\\Program.cs",
+              "RelativeToolTip": "reversed polish notation\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:08:01.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

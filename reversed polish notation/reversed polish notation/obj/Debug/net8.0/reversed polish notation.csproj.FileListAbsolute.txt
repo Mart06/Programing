@@ -1,0 +1,14 @@
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\bin\Debug\net8.0\reversed polish notation.exe
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\bin\Debug\net8.0\reversed polish notation.deps.json
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\bin\Debug\net8.0\reversed polish notation.runtimeconfig.json
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\bin\Debug\net8.0\reversed polish notation.dll
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\bin\Debug\net8.0\reversed polish notation.pdb
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\obj\Debug\net8.0\reversed polish notation.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\obj\Debug\net8.0\reversed polish notation.AssemblyInfoInputs.cache
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\obj\Debug\net8.0\reversed polish notation.AssemblyInfo.cs
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\obj\Debug\net8.0\reversed polish notation.csproj.CoreCompileInputs.cache
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\obj\Debug\net8.0\reversed polish notation.dll
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\obj\Debug\net8.0\refint\reversed polish notation.dll
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\obj\Debug\net8.0\reversed polish notation.pdb
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\obj\Debug\net8.0\reversed polish notation.genruntimeconfig.cache
+D:\visualStudioProjects\reversed polish notation\reversed polish notation\obj\Debug\net8.0\ref\reversed polish notation.dll

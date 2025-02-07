@@ -1,0 +1,14 @@
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\bin\Debug\net8.0\sum of left leaves.exe
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\bin\Debug\net8.0\sum of left leaves.deps.json
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\bin\Debug\net8.0\sum of left leaves.runtimeconfig.json
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\bin\Debug\net8.0\sum of left leaves.dll
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\bin\Debug\net8.0\sum of left leaves.pdb
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\obj\Debug\net8.0\sum of left leaves.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\obj\Debug\net8.0\sum of left leaves.AssemblyInfoInputs.cache
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\obj\Debug\net8.0\sum of left leaves.AssemblyInfo.cs
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\obj\Debug\net8.0\sum of left leaves.csproj.CoreCompileInputs.cache
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\obj\Debug\net8.0\sum of left leaves.dll
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\obj\Debug\net8.0\refint\sum of left leaves.dll
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\obj\Debug\net8.0\sum of left leaves.pdb
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\obj\Debug\net8.0\sum of left leaves.genruntimeconfig.cache
+D:\visualStudioProjects\sum of left leaves\sum of left leaves\obj\Debug\net8.0\ref\sum of left leaves.dll

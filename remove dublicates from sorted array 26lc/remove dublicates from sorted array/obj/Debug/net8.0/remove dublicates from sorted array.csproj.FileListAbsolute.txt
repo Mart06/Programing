@@ -1,0 +1,14 @@
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\bin\Debug\net8.0\remove dublicates from sorted array.exe
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\bin\Debug\net8.0\remove dublicates from sorted array.deps.json
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\bin\Debug\net8.0\remove dublicates from sorted array.runtimeconfig.json
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\bin\Debug\net8.0\remove dublicates from sorted array.dll
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\bin\Debug\net8.0\remove dublicates from sorted array.pdb
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\obj\Debug\net8.0\remove dublicates from sorted array.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\obj\Debug\net8.0\remove dublicates from sorted array.AssemblyInfoInputs.cache
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\obj\Debug\net8.0\remove dublicates from sorted array.AssemblyInfo.cs
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\obj\Debug\net8.0\remove dublicates from sorted array.csproj.CoreCompileInputs.cache
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\obj\Debug\net8.0\remove dublicates from sorted array.dll
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\obj\Debug\net8.0\refint\remove dublicates from sorted array.dll
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\obj\Debug\net8.0\remove dublicates from sorted array.pdb
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\obj\Debug\net8.0\remove dublicates from sorted array.genruntimeconfig.cache
+D:\visualStudioProjects\remove dublicates from sorted array\remove dublicates from sorted array\obj\Debug\net8.0\ref\remove dublicates from sorted array.dll
